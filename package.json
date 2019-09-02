@@ -1,0 +1,25 @@
+{
+  "name": "QuizApp",
+  "version": "1.0.0",
+  "description": "- This is a quiz app made with HTML, CSS and JS.\r  - Local Storage is used for persistence. \r  - Questions are gotten from the Open Trivia API.",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "npm install bulma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorArowo/QuizApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorArowo/QuizApp/issues"
+  },
+  "homepage": "https://github.com/VictorArowo/QuizApp#readme"
+}
